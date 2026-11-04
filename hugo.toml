@@ -1,0 +1,9 @@
+baseURL = 'https://shaw-yu2020.github.io/'
+languageCode = 'zn-CN'
+title = "潇潇的笔记"
+theme = 'hugo-book'
+
+
+# Required For KaTex Codes
+[markup.goldmark.renderer]
+unsafe = true

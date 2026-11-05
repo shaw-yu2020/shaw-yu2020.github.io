@@ -1,7 +1,6 @@
 ---
+title: 博客
 menu:
   after:
     weight: 1
-title: 博客
 ---
-

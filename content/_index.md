@@ -2,7 +2,9 @@
 layout: landing
 ---
 
-# 潇潇的博客
+# 潇潇的笔记
+
+网址：<https://shaw-yu2020.github.io>
 
 邮箱：<yxx2027@163.com>
 

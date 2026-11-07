@@ -5,6 +5,10 @@ weight: 1
 
 ## 开发环境配置
 
+### 推荐编辑器
+
+* Visual Studio Code ( **VS Code** )
+
 ### 推荐根目录 & 环境变量
 
 1. D:\ygx\hugo

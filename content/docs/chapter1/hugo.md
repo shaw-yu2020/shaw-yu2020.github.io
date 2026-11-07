@@ -11,15 +11,23 @@ weight: 1
 
 > 官方仓库：<https://github.com/alex-shpak/hugo-book>
 
-作为子模块配置
+配置子模块
 
 ```bash
 git submodule add https://github.com/alex-shpak/hugo-book themes/hugo-book
 ```
 
-作为子模块更新
+指定子模块
+
+```bash
+cd <submodule>
+git checkout v0.15.0
+```
+
+更新子模块
 
 ```bash
 git submodule init
 git submodule update
+git submodule status
 ```

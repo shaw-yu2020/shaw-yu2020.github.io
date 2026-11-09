@@ -7,6 +7,10 @@ weight: 1
 
 > 官方仓库：<https://github.com/gohugoio/hugo/releases>
 
+## **Hugo**部分命令
+
++ `hugo server -D`
+
 ## **Book**主题配置
 
 > 官方仓库：<https://github.com/alex-shpak/hugo-book>

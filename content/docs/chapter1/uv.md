@@ -11,7 +11,9 @@ weight: 2
 
 * 设置默认**Python**版本：`uv python default 3.14`
 * 设置项目**Python**版本：`uv python pin 3.14`
-* 初始化项目：`uv init new_project`
-* 生产环境添加依赖：`uv add numpy`
-* 生产环境移除依赖：`uv remove numpy`
-* 开发环境添加依赖：`uv add --dev ruff`
+* 初始化：`uv init` & `uv init <project>`
+* 添加依赖：`uv add <package>` & `uv add --dev ruff`
+* 移除依赖：`uv remove <package>` & `uv remove --dev ruff`
+* 清理缓存：`uv cache clean`
+* 清理缓存：`rm -r "$(uv python dir)"`
+* 清理缓存：`rm -r "$(uv tool dir)"`

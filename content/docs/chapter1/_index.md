@@ -11,5 +11,5 @@ weight: 1
 
 ### 推荐根目录 & 环境变量
 
-1. D:\ygx\hugo
-2. D:\ygx\uv
+1. D:\yxx\hugo
+2. D:\yxx\uv
